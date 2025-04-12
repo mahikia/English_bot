@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import os
 
 # توکن ربات از متغیر محیطی
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8197170046:AAEF3l2vWAV9k1JsGjgCPlnJ1w3A-yhEycM")
 bot = telebot.TeleBot(TOKEN)
 
 students = {
